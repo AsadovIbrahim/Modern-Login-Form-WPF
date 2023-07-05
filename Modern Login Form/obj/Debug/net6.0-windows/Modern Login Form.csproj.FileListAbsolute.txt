@@ -1,0 +1,24 @@
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\bin\Debug\net6.0-windows\Modern Login Form.exe
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\bin\Debug\net6.0-windows\Modern Login Form.deps.json
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\bin\Debug\net6.0-windows\Modern Login Form.runtimeconfig.json
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\bin\Debug\net6.0-windows\Modern Login Form.dll
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\bin\Debug\net6.0-windows\Modern Login Form.pdb
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form_MarkupCompile.cache
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form_MarkupCompile.lref
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form.g.resources
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form.dll
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\refint\Modern Login Form.dll
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form.pdb
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\Modern Login Form.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\ref\Modern Login Form.dll
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\App.baml
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\SignIn.g.cs
+C:\Users\Asus\source\repos\Modern Login Form\Modern Login Form\obj\Debug\net6.0-windows\SignIn.baml
