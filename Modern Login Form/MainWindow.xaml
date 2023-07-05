@@ -62,8 +62,7 @@
                         </Grid.ColumnDefinitions>
                         <Image Source="Images/email.png" Height="20"/>
                         <TextBlock Text="Email" x:Name="textEmail" Style="{StaticResource textEmail}" MouseDown="textEmail_MouseDown"/>
-                        <TextBox Text="{Binding Email}"  x:Name="txtEmail" Style="{StaticResource txtEmail}" TextChanged="txtEmail_TextChanged"/>
-
+                        <TextBox  x:Name="txtEmail" Style="{StaticResource txtEmail}" TextChanged="txtEmail_TextChanged"/>
                     </Grid>
                 </Border>
 
@@ -75,7 +74,7 @@
                         </Grid.ColumnDefinitions>
                         <Image Source="Images/password.png" Height="20"/>
                         <TextBlock Text="Password" x:Name="textPassword" Style="{StaticResource textPassword}" MouseDown="textPassword_MouseDown"/>
-                        <TextBox Text="{Binding Password}" x:Name="txtPassword" Style="{StaticResource txtPassword}" TextChanged="txtPassword_TextChanged"/>
+                        <PasswordBox x:Name="txtPassword" Style="{StaticResource txtPassword}" PasswordChanged="txtPassword_PasswordChanged"/>
 
                     </Grid>
                 </Border>

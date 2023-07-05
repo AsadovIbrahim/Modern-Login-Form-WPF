@@ -41,25 +41,12 @@ namespace Modern_Login_Form
         {
             txtPassword.Focus();
         }
-        private void txtPassword_TextChanged(object sender, TextChangedEventArgs e)
-        {
-            if (!string.IsNullOrEmpty(txtPassword.Text) && txtPassword.Text.Length > 0)
-            {
-                textPassword.Visibility = Visibility.Collapsed;
-            }
-            else if (string.IsNullOrEmpty(txtPassword.Text))
-            {
-                textPassword.Visibility = Visibility.Visible;
-            }
-            else { txtPassword.Visibility = Visibility.Visible; }
-        }
-
         private void signInButtonClick(object sender, RoutedEventArgs e)
         {
             string email= txtEmail.Text;
-            string password= txtPassword.Text;
+            string password= txtPassword.Password;
           
-            if (!txtEmail.Text.EndsWith("@gmail.com") || txtPassword.Text.Length < 7)
+            if (!txtEmail.Text.EndsWith("@gmail.com") || txtPassword.Password.Length < 7)
             {
                 MessageBox.Show("Invalid Email Or Password!");
             }
@@ -68,8 +55,19 @@ namespace Modern_Login_Form
                 SignIn signIn = new SignIn(email,password);
                 App.Current.MainWindow.Close();
                 signIn.Show();
-
             }
+        }
+        private void txtPassword_PasswordChanged(object sender, RoutedEventArgs e)
+        {
+            if (!string.IsNullOrEmpty(txtPassword.Password) && txtPassword.Password.Length > 0)
+            {
+                textPassword.Visibility = Visibility.Collapsed;
+            }
+            else if (string.IsNullOrEmpty(txtPassword.Password))
+            {
+                textPassword.Visibility = Visibility.Visible;
+            }
+            else { txtPassword.Visibility = Visibility.Visible; }
         }
     }
 }

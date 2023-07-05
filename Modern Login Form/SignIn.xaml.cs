@@ -12,9 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
+
 namespace Modern_Login_Form
 {
-    
     public partial class SignIn : Window
     {
         public SignIn(string email,string password)

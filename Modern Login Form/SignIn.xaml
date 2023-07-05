@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Modern_Login_Form"
         mc:Ignorable="d"
-        Title="SignIn" Height="450" Width="300" Background="#3AADA1" WindowStartupLocation="CenterScreen">
+        Title="SignIn" Height="450" Width="280" Background="#3AADA1" WindowStartupLocation="CenterScreen">
     <Grid>
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
            
